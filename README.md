@@ -71,4 +71,11 @@
 
 <br>
 
+<!-- SNAKE ANIMATION -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/yudix1605/yudix1605/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+<br>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=6,12,30&section=footer"/>
